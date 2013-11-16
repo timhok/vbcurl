@@ -9,6 +9,16 @@ There is no need to install,
 In Visual Studio press Ctrl+D and select this file,
 it will be included to you project and ready to use.
 
+For C# you can convert this code on these sites:
+
+http://developerfusion.com/tools/convert/csharp-to-vb/
+
+http://carlosag.net/tools/codetranslator/
+
+http://converter.telerik.com/
+
+http://foxtools.ru/Converter
+
 ## Usage
 ### Get request
 ```vb
