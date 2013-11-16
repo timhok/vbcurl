@@ -6,7 +6,7 @@
 ' html = vbcurl.get_("http://google.ru/")
 ' vbcurl.setcookie({"code=1337","q=lax"})
 ' vbcurl.post("https://test.com/","prila=upala")
-' result = vbcurl.coolke
+' result = vbcurl.cookie
 
 Module vbcurl
     Dim cookie As String
